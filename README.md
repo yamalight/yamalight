@@ -9,7 +9,7 @@ Most of the things I make can be found here on my GitHub profile.
 
 I also create educational software development videos on my [YouTube channel](https://www.youtube.com/c/TimErmilov) and do livestreams on [Twitch](https://www.twitch.tv/yamalight).
 
-I post a lot of silly things on [Twitter](https://twitter.com/yamalight).
+I post a lot of silly things on <a rel="me" href="https://fosstodon.org/@yamalight">Mastodon</a>.
 
 And for some reason, I still have a [LinkedIn](https://www.linkedin.com/pub/timofey-ermilov/53/b4a/5a7) profile.
 
