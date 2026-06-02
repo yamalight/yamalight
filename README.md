@@ -11,6 +11,6 @@ I also create educational software development videos on my [YouTube channel](ht
 
 I post a lot of silly things on <a rel="me" href="https://fosstodon.org/@yamalight">Mastodon</a>.
 
-And for some reason, I still have a [LinkedIn](https://www.linkedin.com/pub/timofey-ermilov/53/b4a/5a7) profile.
+And for some reason, I still have a [LinkedIn](https://www.linkedin.com/in/tim-ermilov-5a7b4a53) profile.
 
 In my free time, I enjoy playing video games on [Steam](http://steamcommunity.com/id/yamalight/).
